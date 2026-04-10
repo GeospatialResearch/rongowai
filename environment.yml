@@ -1,0 +1,28 @@
+name: rongowai
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.14
+  - ipykernel
+  - xarray
+  - netcdf4
+  - geopandas
+  - geodatasets
+  - matplotlib
+  - pandas
+  - geopandas
+  - netCDF4
+  - leafmap
+  - pydeck
+  - tqdm
+  - numpy
+  - shapely
+  - geopy
+  - scipy
+  - itables
+  - lonboard
+  - matplotlib
+  - ipywidgets
+  - openpyxl
+  
