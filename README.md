@@ -96,8 +96,8 @@ Rongowai L1 data are publicly available from NASA PODAAC:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-org/rongowai-notebook.git
-cd rongowai-notebook
+git clone https://github.com/geospatialresearch/rongowai.git
+cd rongowai
 ```
 
 ### 2. Create the conda environment
