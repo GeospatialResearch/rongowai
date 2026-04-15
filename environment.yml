@@ -6,6 +6,7 @@ dependencies:
   - python=3.14
   - ipykernel
   - xarray
+  - rioxarray
   - netcdf4
   - geopandas
   - geodatasets
@@ -25,4 +26,5 @@ dependencies:
   - matplotlib
   - ipywidgets
   - openpyxl
+  - dask
   
